@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kianna7
+- 👀 I’m interested in Tech , Literatur and Art 
+- 🌱 I’m currently learning python 
